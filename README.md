@@ -1,2 +1,2 @@
-# Bootcamp-Dio---Orange-Tech-
-Repositório geral para os desafios de projetos do Bootcamp da plataforma Digital Inovation One (DIO)
+# Bootcamp-Dio - Orange-Tech-
+:hand: Olá! Esse é um repositório feito para guardar os desafios de projetos feitos no Bootcamp Front-End da DIO.
